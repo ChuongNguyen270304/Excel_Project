@@ -77,8 +77,8 @@ Key analytical dimensions include:
 
 # Pivot Table Preview
 
-<img width="1123" height="735" alt="Screenshot 2026-07-06 173702" src="https://github.com/user-attachments/assets/9e9b8ba2-743e-4077-ab17-fb6d6c4e36db" />
 <img width="1143" height="719" alt="Screenshot 2026-07-06 173644" src="https://github.com/user-attachments/assets/1b434bac-0ef4-4234-832c-657337d878d7" />
+
 <img width="1103" height="758" alt="Screenshot 2026-07-06 173633" src="https://github.com/user-attachments/assets/be489c35-6d9e-4b36-9269-f97a31afaba1" />
 
 
